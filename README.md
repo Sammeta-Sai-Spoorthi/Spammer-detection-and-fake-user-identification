@@ -35,7 +35,6 @@ The project demonstrates content moderation concepts used in modern social media
 
 ## 🧱 Project Architecture
 
-## 🧱 Project Architecture
 User Interface (JSP Pages – HTML + embedded Java logic)
 
 ↓
